@@ -12,11 +12,28 @@ Transformar dados brutos em insights acionáveis que impulsionam decisões estra
   align="left"
   alt= "Python"
   title="Python"
-  width="30px"
+  width="40px"
   style="padding-rigth: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
-  />
+/>
           
+<img
+  align="left"
+  alt= "SQL"
+  title="SQL"
+  width="40px"
+  style="padding-rigth: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+
+<img
+  align="left"
+  alt= "Power BI"
+  title="Power BI"
+  width="40px"
+  style="padding-rigth: 10px;"
+  src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg](https://github.com/user-attachments/assets/0ae69a8f-49eb-44cc-968f-60db6357827a)" 
+/>
 
 ![img icons8](https://github.com/user-attachments/assets/0ae69a8f-49eb-44cc-968f-60db6357827a)
 
