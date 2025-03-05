@@ -28,7 +28,7 @@ Transformar dados brutos em insights acionáveis que impulsionam decisões estra
 
  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
-
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
 
 ### Engenharia de Dados
 
