@@ -26,15 +26,9 @@ Transformar dados brutos em insights acionáveis que impulsionam decisões estra
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 
-<img
-  align="left"
-  alt= "SQL"
-  title="SQL"
-  width="40px"
-  style="padding-rigth: 10px;"
-  src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg](https://github.com/user-attachments/assets/3b843fd4-19de-4a37-a2a0-4d35820a6137)" 
-/>
+
 ![img icons8](https://github.com/user-attachments/assets/3b843fd4-19de-4a37-a2a0-4d35820a6137)
+![img icons8](https://github.com/user-attachments/assets/181b00f5-871f-405a-a0e5-2063659275d9)
 
 
 
