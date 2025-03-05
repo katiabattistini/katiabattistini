@@ -26,14 +26,8 @@ Transformar dados brutos em insights acionáveis que impulsionam decisões estra
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 
-<img
-  align="left"
-  alt= "SQL"
-  title="SQL"
-  width="40px"
-  style="padding-rigth: 10px;"
-  src="file:///C:/Users/mobilemed/Downloads/powerbi.svg" 
-/>
+ ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+
 
 
 ### Engenharia de Dados
