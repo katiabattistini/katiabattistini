@@ -8,8 +8,15 @@ Transformar dados brutos em insights acionáveis que impulsionam decisões estra
 
 ### Uso Frequente
 
-
-![Rc0Xn5AtE8kX](https://github.com/user-attachments/assets/68c51e5b-b28f-4888-856e-2da3be99ba58)
+<img
+  align="left"
+  alt= "Python"
+  title="Python"
+  width="30px"
+  style="padding-rigth: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+  />
+          
 
 ![img icons8](https://github.com/user-attachments/assets/0ae69a8f-49eb-44cc-968f-60db6357827a)
 
