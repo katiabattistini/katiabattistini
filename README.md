@@ -1,47 +1,57 @@
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465](https://github.com/user-attachments/assets/3601bff9-0cb7-40f2-9b52-2770c1e281f5)# Olá! Sou Kátia Battistini 👩🏻
+<h1 align="left">Olá! Sou Kátia Battistini 👩🏻</h1>
 
-Analista e engenheira de dados com uma trajetória diversificada: 3 anos focada em dados e 18 anos na indústria farmacêutica. Essa combinação me permite abordar problemas com uma perspectiva analítica, compreender o impacto dos dados em diferentes setores e construir/gerenciar pipelines de dados eficientes.
+###
 
-Transformar dados brutos em insights acionáveis que impulsionam decisões estratégicas é o que me move. Como engenheira de dados para ETL (Extrair, Transformar, Carregar), garanto a qualidade, confiabilidade e disponibilidade das informações.
+<p align="left">Analista e engenheira de dados com formação em Biomedicina e Farmácia. <br><br>Minha trajetória une mais de 3 anos de experiência focada em dados a 18 anos na indústria farmacêutica. <br><br>Essa combinação me permite abordar problemas com uma perspectiva analítica, compreender o impacto dos dados em diferentes setores e construir/gerenciar pipelines de dados eficientes.<br><br>Transformar dados brutos em valor para o negócio  é o que me move.</p>
 
-## 🚀 Linguagens e Ferramentas
+###
 
-### Uso Frequente
+<h2 align="left">Uso frequente</h2>
 
-<img
-  align="left"
-  alt= "Python"
-  title="Python"
-  width="40px"
-  style="padding-rigth: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
-/>
-          
-<img
-  align="left"
-  alt= "SQL"
-  title="SQL"
-  width="40px"
-  style="padding-rigth: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
+###
 
- ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
+</div>
 
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+###
 
-### Engenharia de Dados
+<h2 align="left">Tenho Conhecimento</h2>
 
+###
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+</div>
 
+###
 
+<h2 align="left">Estou Aprendendo</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
