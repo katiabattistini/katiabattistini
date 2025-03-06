@@ -11,17 +11,19 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI"height="40" alt="Power-BI logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn" height="40" alt="scikit-learn logo" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
+   <img src="https://aws-icons.com/icons/athena" height="40" alt="athena logo"  />
 </div>
 
 ###
@@ -41,6 +43,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img src="https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn" height="40" alt="scikit-learn logo" />
+  <img src="https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark" height="40" alt="Apache-Spark logo" />
+  <img src="https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow" height="40" alt="Apache-Airflow logo" />
+  <img src="https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau" height="40" alt="Tableau logo" />
+  <img src="https://img.shields.io/badge/-R-black?style=flat-square&logo=R" height="40" alt="R logo" />
+  
 </div>
 
 ###
@@ -53,6 +60,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker" height="40" alt="Docker logo"  />
+  <img src="https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=Apache-Kafka" height="40" alt="Apache-Kafka logo"  />
+  
 </div>
 
 ###
